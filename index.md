@@ -59,6 +59,14 @@ Alfredo Sánchez Alberca <a href="mailto:asalber@ceu.es"><i class='fa fa-envelop
 
 <img src="img/grado-ingenieria-matematica.png" width=60% alt="Diagrama ingeniería matemática">
 
+--
+
+## Lenguajes de programación
+
+<img src="img/logo-python.jpeg" width=30% alt="logo-python">
+<img src="img/logo-r.png" width=30% alt="logo-r">
+<img src="img/logo-julia.png" width=30% alt="logo-julia">
+
 ---
 
 ## Plan de Estudios
