@@ -61,6 +61,259 @@ Alfredo Sánchez Alberca <a href="mailto:asalber@ceu.es"><i class='fa fa-envelop
 
 ---
 
+## Plan de Estudios
+
+### Primer curso
+
+<div class="left">
+
+**Primer Semestre**
+
+| Asignatura | ECTS |
+|:-|-:|
+| Fundamentos de Matemáticas | 3 |
+| Análisis I | 6 |
+| Álgebra Lineal | 9 |
+| Matemática Discreta | 6 |
+| Programación | 6 |
+
+</div>
+
+<div class="right">
+
+**Segundo Semestre**
+
+| Asignatura | ECTS |
+|:-|-:|
+| Análisis II | 6 |
+| Probabilidad y Estadística | 6 |
+| Algoritmos y Estructuras de Datos | 9 |
+| Claves de Historia Contemporánea | 6 |
+| Proyecto 1 | 3 |
+
+</div>
+
+--
+
+## Plan de Estudios
+
+### Segundo curso
+
+<div class="left">
+
+**Primer Semestre**
+
+| Asignatura | ECTS |
+|:-|-:|
+| Análisis III | 6 |
+| Ecuaciones Diferenciales y en Diferencias | 6 |
+| Bases de Datos | 6 |
+| Estadística Inferencial | 6 |
+| Fundamentos Económicos | 6 |
+
+</div>
+
+<div class="right">
+
+**Segundo Semestre**
+
+| Asignatura | ECTS |
+|:-|-:|
+| Geometría Diferencial | 6 |
+| Métodos Numéricos I | 6 |
+| Electrónica Digital y Arquitectura de Ordenadores | 9 |
+| Ecuaciones en Derivadas Parciales | 6 |
+| Análisis de Datos | 6 |
+| Proyecto 2 | 3 |
+
+</div>
+
+--
+
+## Plan de Estudios
+
+### Tercer curso (Mención Finanzas)
+
+<div class="left">
+
+**Primer Semestre**
+
+| Asignatura | ECTS |
+|:-|-:|
+| Sistemas Operativos y Redes de Ordenadores | 6 |
+| Optimización | 6 |
+| Métodos Numéricos II | 6 |
+| Homrbre y Mundo Moderno | 6 |
+| Optativas | 6 |
+
+</div>
+
+<div class="right">
+
+**Segundo Semestre**
+
+| Asignatura | ECTS |
+|:-|-:|
+| Cálculo Estocástico | 6 |
+| Matemática Financiera I | 6 |
+| Matemáticas Actuariales | 6 |
+| Aprendizaje Automático | 6 |
+| Computación en Paralelo | 6 |
+
+</div>
+
+--
+
+## Plan de Estudios
+
+### Tercer curso (Mención Inteligencia Artificial)
+
+<div class="left">
+
+**Primer Semestre**
+
+| Asignatura | ECTS |
+|:-|-:|
+| Sistemas Operativos y Redes de Ordenadores | 6 |
+| Optimización | 6 |
+| Métodos Numéricos II | 6 |
+| Hombre y Mundo Moderno | 6 |
+| Optativas | 6 |
+
+</div>
+
+<div class="right">
+
+**Segundo Semestre**
+
+| Asignatura | ECTS |
+|:-|-:|
+| Lógica Formal | 6 |
+| Teoría de la Computación | 6 |
+| Fundamentos de la Inteligencia Artificial | 6 |
+| Aprendizaje Automático | 6 |
+| Computación en Paralelo | 6 |
+
+</div>
+
+--
+
+## Plan de Estudios
+
+### Tercer curso
+
+**Optativas**
+
+| Asignatura | ECTS |
+|:-|-:|
+| Análisis Funcional | 3 |
+| Sistemas Dinámicos | 3 |
+| Topología | 3 |
+| Variable Compleja y Análisis de Fourier | 6 |
+
+
+--
+
+## Plan de Estudios
+
+### Cuarto curso (Mención Finanzas)
+
+<div class="left">
+
+**Primer Semestre**
+
+| Asignatura | ECTS |
+|:-|-:|
+| Matemática Financiera II | 6 |
+| Minería de Datos y Big Data | 6 |
+| Modelos de Riesgo Cuantitativo | 6 |
+| Teoría y Optimización de Carteras | 6 |
+| Series Temporales | 6 |
+
+</div>
+
+<div class="right">
+
+**Segundo Semestre**
+
+| Asignatura | ECTS |
+|:-|-:|
+| Doctrina Social de la Iglesia | 6 |
+| Optativa | 3 |
+| Prácticas Externas | 12 |
+| Trabajo Fin de Grado | 9 |
+
+</div>
+
+--
+
+## Plan de Estudios
+
+### Cuarto curso (Mención Finanzas)
+
+**Optativas**
+
+| Asignatura | ECTS |
+|:-|-:|
+| Criptografía y Blockchain | 3 |
+| Procesos Estocásticos | 3 |
+| Aprendizaje Profundo | 3 |
+| Computación Cuántica | 3 |
+| Grandes Libros | 3 |
+| Ética y Deontología | 3 |
+
+--
+
+## Plan de Estudios
+
+### Cuarto curso (Mención Inteligencia Artificial)
+
+<div class="left">
+
+**Primer Semestre**
+
+| Asignatura | ECTS |
+|:-|-:|
+| Programación Lógica | 6 |
+| Programación Funcional | 6 |
+| Percepción Computacional | 6 |
+| Procesamiento del Lenguaje Natural | 6 |
+| Administración de Sistemas | 6 |
+
+</div>
+
+<div class="right">
+
+**Segundo Semestre**
+
+| Asignatura | ECTS |
+|:-|-:|
+| Doctrina Social de la Iglesia | 6 |
+| Optativa | 3 |
+| Prácticas Externas | 12 |
+| Trabajo Fin de Grado | 9 |
+
+</div>
+
+--
+
+## Plan de Estudios
+
+### Cuarto curso (Mención Inteligencia Artificial)
+
+**Optativas**
+
+| Asignatura | ECTS |
+|:-|-:|
+| Ingeniería del Software | 3 |
+| Teoría de la Señal | 3 |
+| Aprendizaje Profundo | 3 |
+| Computación Cuántica | 3 |
+| Grandes Libros | 3 |
+| Ética y Deontología | 3 |
+
+---
+
 ## Salidas profesionales
 
 <table>
@@ -112,6 +365,6 @@ Alfredo Sánchez Alberca <a href="mailto:asalber@ceu.es"><i class='fa fa-envelop
 https://aprendeconalf.es/grado-ingenieria-matematica/#works
 
 ---
-
-- [Matemáticas para describir las olas del mar](https://elpais.com/ciencia/2022-04-13/matematicas-para-describir-las-olas-del-mar.html)
+<!-- 
+- [Matemáticas para describir las olas del mar](https://elpais.com/ciencia/2022-04-13/matematicas-para-describir-las-olas-del-mar.html) -->
 
